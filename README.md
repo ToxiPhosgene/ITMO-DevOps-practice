@@ -1,3 +1,7 @@
-"git project" 
-"Gass Ivan Andreevich" 
-"P4122" 
+Название: git project
+
+Студент: Gass Ivan Andreevich
+
+Группа: P4122
+
+Факультет: ПИиКТ
